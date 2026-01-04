@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/solkey.png" width="220" />
+  <img src="./solkey.png" width="220" />
 </p>
 
 # SolKey
@@ -1347,4 +1347,5 @@ Support for multi-signature wallets where requests must be signed by multiple pa
 - Pre-built dashboards for Grafana, Datadog, and other monitoring platforms
 - Anomaly detection for unusual wallet behavior
 - Automated alerting for security events
+
 - Integration with SIEM systems
